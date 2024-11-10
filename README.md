@@ -60,8 +60,7 @@
 ## 📊 Статистика
 
 ![](https://github-readme-stats.vercel.app/api?hide_rank=true&hide=issues,contribs&show_icons=true&locale=en&langs_count=8&card_width=320&username=VadimMartynenkoQA)
-![visitors](https://komarev.com/ghpvc/?username=VadimMartynenkoQA&label=visitors&color=blue)
-
+[![Codewars](https://www.codewars.com/users/ia-stepanov/badges/large)](https://www.codewars.com/users/ia-stepanov/badges/large)
 <!-- Выбор темы ↑↑: https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md --> 
 <!-- Настройка отображения ↑↑: https://github.com/anuraghazra/github-readme-stats/ --> 
 
