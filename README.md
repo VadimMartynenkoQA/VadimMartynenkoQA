@@ -62,8 +62,6 @@
 ![](https://github-readme-stats.vercel.app/api?hide_rank=true&hide=issues,contribs&show_icons=true&locale=en&langs_count=8&card_width=320&username=VadimMartynenkoQA)
 <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ia-stepanov&show_icons=true" height="140px"/> <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ia-stepanov&layout=compact" height="140px"/>
 
-[![Codewars](https://www.codewars.com/users/ia-stepanov/badges/large)](https://www.codewars.com/users/ia-stepanov/badges/large)
-
 ![visitors](https://komarev.com/ghpvc/?username=ia-stepanov&label=visitors&color=blue)
 <!-- Выбор темы ↑↑: https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md --> 
 <!-- Настройка отображения ↑↑: https://github.com/anuraghazra/github-readme-stats/ --> 
