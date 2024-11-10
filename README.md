@@ -64,10 +64,6 @@
 
 [![Codewars](https://www.codewars.com/users/ia-stepanov/badges/large)](https://www.codewars.com/users/ia-stepanov/badges/large)
 
----
-
-<!-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=ia-stepanov.ia-stepanov) -->
-
 ![visitors](https://komarev.com/ghpvc/?username=ia-stepanov&label=visitors&color=blue)
 <!-- Выбор темы ↑↑: https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md --> 
 <!-- Настройка отображения ↑↑: https://github.com/anuraghazra/github-readme-stats/ --> 
